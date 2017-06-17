@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+        "key": "1",
+        "sjbm": "LY_TABLE_1",
+        "zwjc": "表1"
+      },
+       {
+        "key": "2",
+        "sjbm": "LY_TABLE_2",
+        "zwjc": "表2"
+      },
+       {
+        "key": "3",
+        "sjbm": "LY_TABLE_3",
+        "zwjc": "表1"
+      },
+       {
+        "key": "4",
+        "sjbm": "LY_TABLE_4",
+        "zwjc": "表4"
+      }
+    ]
+}

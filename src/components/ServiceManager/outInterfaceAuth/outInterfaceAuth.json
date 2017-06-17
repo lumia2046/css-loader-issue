@@ -1,0 +1,22 @@
+{
+  "data":[
+    {
+      "jkmc":"getTeacherInfo",
+      "jkbq":"获取教师信息",
+      "jkfl":"教师业务",
+      "sqyys":"10"
+    },
+    {
+      "jkmc":"getStudentInfo",
+      "jkbq":"获取学生信息",
+      "jkfl":"学生业务",
+      "sqyys":"22"
+    },
+    {
+      "jkmc":"getOtherInfo",
+      "jkbq":"获取其他信息",
+      "jkfl":"其他业务",
+      "sqyys":"5"
+    }
+  ]
+}

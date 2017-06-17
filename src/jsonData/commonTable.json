@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "key": "1",
+            "name": "John Brown",
+            "age": 32,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        },
+        {
+            "key": "2",
+            "name": "John Brown",
+            "age": 33,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        },
+        {
+            "key": "3",
+            "name": "John Brown",
+            "age": 34,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        },
+        {
+            "key": "4",
+            "name": "John Brown",
+            "age": 35,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        },
+        {
+            "key": "5",
+            "name": "John Brown",
+            "age": 36,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        },
+        {
+            "key": "6",
+            "name": "John Brown",
+            "age": 37,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        },
+        {
+            "key": "7",
+            "name": "John Brown",
+            "age": 38,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        },
+        {
+            "key": "8",
+            "name": "John Brown",
+            "age": 39,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        },
+        {
+            "key": "9",
+            "name": "John Brown",
+            "age": 40,
+            "phone": 18889898989,
+            "address": "New York No. 1 Lake Park"
+        }
+    ],
+    "columns": [{
+      "title": "Name",
+      "dataIndex": "name"
+    },{
+      "title": "Age",
+      "dataIndex": "age"
+    },{
+      "title": "Phone",
+      "dataIndex": "phone"
+    }, {
+      "title": "Address",
+      "dataIndex": "address"
+    }],
+    "total":9
+}

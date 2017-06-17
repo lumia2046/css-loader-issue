@@ -1,0 +1,85 @@
+[
+    {
+        "title": "接口分类",
+        "key": "a",
+        "value": {
+            "id": 123
+        },
+        "children": [
+            {
+                "title": "学工业务",
+                "key": "b",
+                "value": {
+                    "id": 234
+                },
+                "children": [
+                    {
+                        "title": "c",
+                        "key": "c",
+                        "value": {
+                            "id": 345
+                        }
+                    },
+                    {
+                        "title": "d",
+                        "key": "d",
+                        "value": {
+                            "id": 567
+                        }
+                    },
+                    {
+                        "title": "e",
+                        "key": "e",
+                        "value": {
+                            "id": 678
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "教务业务",
+                "key": "f",
+                "value": {
+                    "id": 789
+                },
+                "children": [
+                    {
+                        "title": "g",
+                        "key": "g",
+                        "value": {
+                            "id": 126
+                        }
+                    },
+                    {
+                        "title": "h",
+                        "key": "h",
+                        "value": {
+                            "id": 127
+                        }
+                    },
+                    {
+                        "title": "i",
+                        "key": "i",
+                        "value": {
+                            "id": 128
+                        }
+                    }
+                ]
+            },
+            {
+                "title": "财务业务",
+                "key": "j",
+                "value": {
+                    "id": 123
+                }
+            }
+        ]
+    },
+    {
+        "title": "k",
+        "key": "k",
+        "value": {
+            "id": 123
+        }
+    }
+]

@@ -1,0 +1,169 @@
+.headBoxContainer{
+    display: flex;
+    flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+
+.headBox{
+   display: flex;
+   flex: 0 1 20%;
+   flex-direction: row;
+   margin: 10px;
+   padding: 10px;
+   height: 80px;
+   color: white;
+   font-size: 15px;
+   cursor: pointer;
+}
+
+.headBox_1{
+   background: linear-gradient(to right, RGB(244,164,155) 0%,RGB(255,127,116) 100%);
+}
+
+.headBox_2{
+   background: linear-gradient(to right, RGB(119,155,239) 0%,RGB(21,94,249) 100%);
+}
+
+.headBox_3{
+   background: linear-gradient(to right, RGB(100,200,255) 0%,RGB(11,159,225) 100%);
+}
+
+.headBox_4{
+   background: linear-gradient(to right, RGB(174,169,224) 0%,RGB(129,116,236) 100%);
+}
+.headBox_5{
+   background: linear-gradient(to right, RGB(188,246,188) 0%,RGB(84,237,84) 100%);
+}
+
+.headBoxLeft{
+   display: flex;
+   flex-direction: column;
+   flex: auto;
+}
+
+.headBoxLeftItem{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex: auto;
+}
+.headBoxLeftItem:nth-child(2){
+   font-size: 25px;
+   font-weight: bold;
+}
+
+.headBoxRight{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex: auto;
+   font-size: 50px;
+}
+
+.detailBody{
+    padding: 10px;
+}
+
+.detailTitle,.detailItem,.fieldBoxContainer,.detailSubTitle{
+    margin: 20px 0;
+} 
+
+.detailSubTitle{
+    border-bottom: 1px solid #ccc;
+}
+
+.detailSubTitle span{
+    margin-bottom: -2px;
+    border-bottom:3px solid RGB(3,169,245);
+    font: 20px bold;
+    color: RGB(3,169,245);
+
+}
+
+.fieldContent{
+    display: inline-block;
+    position: relative;
+}
+
+.fieldContent:hover .hoverTable{
+    display: block;
+}
+.hoverTable{
+    display: none;
+    position: absolute;
+    z-index: 10;
+    left: 20px;
+    bottom: 70px;
+    width: 240px;
+    background-color: RGB(232,240,253);
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+.hoverTable table tr:nth-child(odd){
+    background-color: white;
+}
+
+.hoverTable table tr th{
+    background-color: RGB(139,188,255);
+    color: white;
+}
+
+.hoverTable table {
+    border-collapse:collapse;
+    margin: 10px auto;
+}
+
+.hoverTable p {
+    margin: 10px auto;
+    text-align:center;
+} 
+
+.hoverTable table tr th,.hoverTable table tr td {
+    border:solid RGB(216,228,244); 
+    border-width: 0 1px;
+    padding:0px 10px;
+    text-align: center;
+}
+.hoverTable table tr td:nth-child(1){
+    color: RGB(26,100,225);
+}
+.fieldBox{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    margin-right:20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px #ccc;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.fieldBox div{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.fieldBox div:nth-child(1){
+   height:70%;
+   
+   font-weight: bold;
+   font-size: 20px;
+   color:white;
+}
+
+.fieldBoxContainer_1 .fieldBox div:nth-child(1){
+    background-color:RGB(3,169,245);
+}
+
+.fieldBoxContainer_2 .fieldBox div:nth-child(1){
+    background-color:RGB(247,159,111);
+}
+
+.fieldBoxContainer_3 .fieldBox div:nth-child(1){
+    background-color:RGB(134,121,237);
+}

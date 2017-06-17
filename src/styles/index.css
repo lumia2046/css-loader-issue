@@ -1,0 +1,144 @@
+
+/**menu*/
+
+.ant-menu >.ant-menu-item,.ant-menu-submenu-title{
+	padding-left: 50px !important;
+}
+
+.ant-menu-sub > .ant-menu-item{
+	padding-left: 80px !important;
+}
+
+.ant-menu-dark .ant-menu-item, .ant-menu-dark .ant-menu-item-group-title, .ant-menu-dark .ant-menu-item > a {
+    color: white;
+}
+.ant-menu-dark, .ant-menu-dark .ant-menu-sub {
+    color: white;
+}
+
+/* 菜单选中样式*/
+.ant-menu-dark.ant-menu-inline .ant-menu-item-selected {
+    background-color: #353535;
+    border-left: 4px solid #FCC874;
+}
+
+.ant-menu-dark, .ant-menu-dark .ant-menu-sub {
+    background: #434343;
+}
+
+.ant-menu-vertical .ant-menu-item, .ant-menu-inline .ant-menu-item, .ant-menu-vertical .ant-menu-submenu-title, .ant-menu-inline .ant-menu-submenu-title {
+    padding: 0 16px;
+    font-size: 14px;
+    line-height: 50px;
+    height: 50px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-family: 微软雅黑;
+}
+
+/**menu end**/
+
+/**button start**/
+
+.ant-btn-warning {
+    color: #fff;
+    background-color: #ec971f;
+    border-color: #d58512;
+}
+.ant-btn-warning:hover,.ant-btn-warning:focus,.ant-btn-warning:active {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+
+.ant-btn-danger {
+    color: #fff;
+    background-color: #c9302c;
+    border-color: #ac2925;
+}
+.ant-btn-danger:hover,.ant-btn-danger:active,.ant-btn-danger:focus {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+.ant-btn-info {
+    color: #fff;
+    background-color: #31b0d5;
+    border-color: #269abc;
+    
+}
+.ant-btn-info:hover,.ant-btn-info:focus,.ant-btn-info:active {
+    color: #fff;
+    background-color: #5bc0de;
+    border-color: #46b8da;
+}
+
+.ant-btn-success {
+    color: #fff;
+    background-color: #449d44;
+    border-color: #255625;
+    
+}
+
+.ant-btn-success.focus,.ant-btn-success:hover,.ant-btn-success:focus,.ant-btn-success:active {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+
+/**button end**/
+
+
+/**table start**/
+
+.ant-table-thead > tr > th {
+	background: #03A9F5;
+	font-size: 14px;
+	color: white;
+	text-align: center;
+}
+
+.ant-table table {
+    text-align: center;
+}
+.ant-table-thead > tr > th, .ant-table-tbody > tr > td {
+    padding: 10px 8px;
+}
+/**table end**/
+
+
+/** 业务数据库 左侧导航 样式重写  start */
+.ant-card-body{
+    padding: 0px;
+}
+.ant-card-bordered {
+    width: 50%;
+    height: 80%;
+}
+/** 业务数据库 左侧导航 样式重写   end  */
+
+/** 业务数据库 主页 上传按钮样式重写 start **/
+.avatar-uploader,
+.avatar-uploader-trigger,
+.avatar {
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    width: 200px;
+    height: 50px;
+}
+.avatar-uploader {
+    display: block;
+    border: 1px dashed #d9d9d9;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.avatar-uploader-trigger {
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 28px;
+    color: #999;
+}
+/** 业务数据库 主页 上传按钮样式重写  end  **/

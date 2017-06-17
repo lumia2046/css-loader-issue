@@ -1,0 +1,47 @@
+{
+    "data":[
+        {
+        "key": "1",
+        "xtmc": "人事管理系统",
+        "xturl": "www.whu-hr.com",
+        "xtip": "10.0.1.100",
+        "glyyx":"123456@qq.com",
+        "cjsj":"2017-05-25 16:25:30"
+      }, {
+        "key": "2",
+        "xtmc": "人事管理系统",
+        "xturl": "www.whu-hr.com",
+        "xtip": "10.0.1.100",
+        "glyyx":"123456@qq.com",
+        "cjsj":"2017-05-25 16:25:30"
+      }, {
+        "key": "3",
+        "xtmc": "人事管理系统",
+        "xturl": "www.whu-hr.com",
+        "xtip": "10.0.1.100",
+        "glyyx":"123456@qq.com",
+        "cjsj":"2017-05-25 16:25:30"
+      }, {
+        "key": "4",
+        "xtmc": "人事管理系统",
+        "xturl": "www.whu-hr.com",
+        "xtip": "10.0.1.100",
+        "glyyx":"123456@qq.com",
+        "cjsj":"2017-05-25 16:25:30"
+      }, {
+        "key": "5",
+        "xtmc": "人事管理系统",
+        "xturl": "www.whu-hr.com",
+        "xtip": "10.0.1.100",
+        "glyyx":"123456@qq.com",
+        "cjsj":"2017-05-25 16:25:30"
+      }, {
+        "key": "6",
+        "xtmc": "教务管理系统",
+        "xturl": "www.whu-hr.com",
+        "xtip": "10.0.1.100",
+        "glyyx":"123456@qq.com",
+        "cjsj":"2017-05-25 16:25:30"
+      }
+    ]
+}

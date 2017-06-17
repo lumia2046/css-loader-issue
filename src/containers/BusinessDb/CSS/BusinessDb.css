@@ -1,0 +1,209 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 业务系统主页 start */
+.antRow {
+    margin-left: 0;
+    margin-right: 0;
+    height: auto;
+    zoom: 1;
+    display: block;
+    clear: left;
+}
+.antCol8 {
+    display: block;
+    width: 465px;
+	float: left;
+	margin-top: 30px;   
+    float: left;
+}
+.antCard {
+    background: #fff;
+    border-radius: 4px;
+    font-size: 12px;
+    overflow: hidden;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.antCardHead {
+    height: 48px;
+    line-height: 48px;
+    background: #E5E5E5;
+    border-bottom: 1px solid #e9e9e9;
+    padding: 0 24px;
+	vertical-align: middle;
+    text-align: left;
+}
+.antCardHeadTitleLeft {
+    font-size: 16px;
+	width: 70%;
+	display: inline-block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: rgba(0,0,0,.85);
+    font-weight: 500;
+	float:left;
+}
+.antCardHeadTitleLeft > font{
+    color: #3DAEF7;
+	font-weight:bold;
+}
+.antCardHeadTitleRight {
+    font-size: 12px;
+    display: inline-block; 
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: rgba(0,0,0,.85);
+    font-weight: 500;
+	float: right;
+}
+.antCardBody {
+    padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+
+.antCardBodyDiv {
+	width:100%; 
+	height:260px; 
+    background-color: #F5F1F1;
+}
+
+.antCardBodyDivLeft {
+	padding-left:10%;
+	padding-top:15%;
+	padding-right:5%;
+	float:left;
+}
+.antCardBodyDivRight {
+	padding-top:20%;
+}
+.antCardBodyDivRight > ul > ol {
+	padding-bottom: 3%;
+}
+.antCardBodyDivEdit {
+    padding-left:10%;
+	padding-top:10%;
+}
+.antCardBodyDivEdit > ul > ol {
+	padding-bottom: 3%;
+}
+
+
+.imgDiv{
+    padding-left: 5%;
+    padding-top: 15%;
+    padding-right: 5%;
+    float:left;
+}
+.textDiv{
+    padding-top:20%;
+}
+
+.textDiv > p{
+    font-size: 18px;
+    color: white;
+}
+
+.cont1{
+	width: 46%;
+	height: 50%;
+	background: #FF7567;/*边长200像素的蓝色方块*/
+	float: left;
+    margin-right: 15px;
+	margin-bottom: 15px;
+}
+.cont2{
+	width: 46%;
+	height: 50%;
+	background: #F6B63C;/*边长200像素的蓝色方块*/
+	float: left;
+}
+.cont3{
+	width: 46%;
+	height: 50%;
+	background: #35BBF6;/*边长200像素的蓝色方块*/
+	float: left;
+    margin-right: 15px;
+	margin-bottom: 15px;
+    clear: left;
+}
+.cont4{
+	width: 46%;
+	height: 50%;
+	background: #3CB8A0;/*边长200像素的蓝色方块*/
+	float: left;
+}
+/* 业务数据主页  end  */
+
+
+/* 总体运行情况 */
+.ZTYXKQTopDiv {
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.FloatLeft{
+    float: left;
+}
+.FloatRight{
+    text-align: right;
+    float: right;
+}
+.ZTYXKQButtonPLeft {
+    /*padding-top: 10px;*/
+    /*padding-left: 10px;*/
+    width: 50%;
+    float: left;
+    text-align: left;
+}
+.ZTYXKQButtonPRight {
+    /*padding-top: 10px;*/
+    /*padding-right: 10px;*/
+    width: 50%;
+    float: left;
+    /*align-content: right;*/
+    text-align: right;
+    /*align-items: right;*/
+}
+
+/* echarts样式 start */
+.echartsHead {
+    background-color: #E5E5E5;
+    padding-left: 10px;
+    height: 50px;
+    line-height: 50px;
+}
+.echartsHead img{
+    padding-top: 10px;
+    float: left;
+    padding-right: 5px;
+}
+.echartsHead font{
+    color: #08A8FB;
+    font-size: 16px;
+}
+.echartsBody canvas {
+    background-color: #FFFFFF;
+}
+/* echarts样式  end  */
+
+
+.hotDataTable {
+  width: 100%;
+  height: 50px;
+  background-color: #FFFFFF;
+  padding-left: 30px;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.inputBorderRadius {
+    border-radius: 30px;
+}

@@ -1,0 +1,163 @@
+/**选择核验系统*/
+.select_head{
+	height:135px;
+	line-height:135px;
+	padding-left:40px;
+	padding-right:70px;
+	border-bottom: 8px solid #B3E5FC;
+}
+.select_head_img{
+	width:34px;
+	height:34px;
+	float:left;
+	margin-top:56px;
+}
+.select_head_font{
+	color:#05a8f5;
+	font-size:36px;
+	float:left;
+	margin-left:20px;
+}
+.select_rule{
+	height: 35px;
+	line-height: 35px;
+	background: #E5E5E5;
+	padding-left: 40px;
+    padding-right: 60px;
+}
+
+.uncheck_system{
+	height: 40px;
+	line-height: 40px;
+	background: #FFFFFF;
+	padding-left: 40px;
+	
+}
+
+.uncheck_system_item{
+	height: 65px;
+	background: #F1FAFF;
+	padding-left: 75px;
+	border-bottom: 1px solid #E5E5E5;
+}
+
+
+/**核验过程*/
+.checking_head{
+	height:135px;
+	padding-left:40px;
+	padding-right:70px;
+}
+
+.checking_head_img{
+	width:117px;
+	height:115px;
+	line-height:115px;
+	float:left;
+	margin-top: 5px;
+
+}
+
+.checking_head_time{
+    color: white;
+    margin-left: 33px;
+    font-size: 20px;
+}
+
+.checking_head_result{
+	width: 400px;
+    float: left;
+    padding-top: 20px;
+}
+
+.checking_head_result_span{
+	color:#05a8f5;
+	font-size:36px;
+	margin-left:10px;
+}
+
+.checking_head_checkItem_span{
+	color:#35b6ef;
+	font-size:14px;
+	margin-left:10px;
+}
+
+.checking_head_btn{
+   float:right;
+   line-height:135px;
+}
+
+.checking_head_title{
+	height: 35px;
+	line-height: 35px;
+	background: #E5E5E5;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.checking_item_name{
+	height: 40px;
+	line-height: 40px;
+	background: #FFFFFF;
+	padding-left: 70px;
+	border-bottom: 1px solid #E5E5E5;
+	
+}
+.checking_item_name_img{
+	vertical-align: middle;
+    margin-right: 5px;
+}
+
+.checking_item_system{
+	height: 40px;
+	background: #F1FAFF;
+	border-bottom: 1px solid #E5E5E5;
+}
+
+.checking_item_table{
+	height: 40px;
+	background: #FAFAFA;
+	border-bottom: 1px solid #E5E5E5;
+}
+
+/**核验结果**/
+
+.checked_result_head{
+	height:135px;
+	padding-left:40px;
+	padding-right:70px;
+	border-bottom: 8px solid #B3E5FC;
+}
+.checked_result_head_img{
+	width:108px;
+	height:108px;
+	line-height:108px;
+	float:left;
+	margin-top: 10px;
+
+}
+
+.checked_result_num{
+	width: 550px;
+    float: left;
+    padding-top: 25px;
+}
+
+.checked_head_result_small_title{
+	color:#898A8C;
+	font-size:12px;
+}
+
+.checked_head_result_des{
+	color:#898A8C;
+	font-size:12px;
+}
+.checked_head_result_des_img{
+	margin-left:10px;
+	margin-top: 5px;
+}
+
+
+    
+
+

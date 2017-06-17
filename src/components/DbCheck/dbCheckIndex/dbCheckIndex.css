@@ -1,0 +1,40 @@
+.divStyle {
+	display:inline;
+}
+
+.dbInfoShow{
+	text-align: center;
+}
+
+.dbFontStyleLeft {
+	font-size: 20px;
+	text-align: right;
+}
+
+.dbFontStyleRight {
+	font-size: 20px;
+}
+
+.dbFontStyleRightLink {
+	font-size: 20px;
+	color: #00AAF3;
+}
+
+.haveNoCheckDate {
+	font-size: 20px;
+	color: #FC807D;
+	text-align: right;
+}
+
+.needCheckNum {
+	font-size: 20px;
+	color: #979FFD;
+}
+
+.lastCheckPoint {
+	font-size: 20px;
+	color:#8DCFFA;
+	text-align: right;
+}
+
+

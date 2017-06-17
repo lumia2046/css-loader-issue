@@ -1,0 +1,43 @@
+.sub_menu_title{
+	text-align: center;
+	background: #404040;
+	color: #C0C0C0;
+	height: 165px;
+	padding-top: 50px;
+}
+
+.sub_menu_title > img{
+	width: 70px;
+	height: 70px;
+	margin: 0 auto;
+}
+
+.sub_menu_title > div{
+	margin-top: 10px;
+}
+
+
+.breadcrumb_div{
+	background-color: #057DBC;
+	line-height: 40px;
+	height:40px;
+	padding-left: 40px;
+}
+
+.breadcrumb_div_icon{
+	color: white;
+}
+
+.breadcrumb_div_span{
+	color: white !important;
+}
+
+.menu_item_icon{
+	color: white;
+}
+
+.menu_item_span{
+	color: white;
+}
+
+

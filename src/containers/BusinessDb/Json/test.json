@@ -1,0 +1,89 @@
+{
+  "headKey": [
+    "title",
+    "dataIndex",
+    "key",
+    "width",
+    "render"
+  ],
+  "headData": [
+    {
+      "title": {
+        "value": "表名",
+        "tag": "div",
+        "func": "testaaa"
+      },
+      "dataIndex": {
+        "value": "tableName"
+      },
+      "key": {
+        "value": "tableName"
+      },
+      "width": {
+        "value": "20%"
+      },
+      "render" : {
+        "value" : "myRender"
+      }
+    },
+    {
+      "title": {
+        "value": "表描述"
+      },
+      "dataIndex": {
+        "value": "tableDescription"
+      },
+      "key": {
+        "value": "tableDescription"
+      },
+      "width": {
+        "value": "20%"
+      },
+      "render" : {
+        "value" : "myRender"
+      }
+    },
+    {
+      "title": {
+        "value": "表字段数"
+      },
+      "dataIndex": {
+        "value": "tableFidldNums"
+      },
+      "key": {
+        "value": "tableFidldNums"
+      },
+      "width": {
+        "value": "15%"
+      }
+    },
+    {
+      "title": {
+        "value": "表记录数（条）"
+      },
+      "dataIndex": {
+        "value": "tableCount"
+      },
+      "key": {
+        "value": "tableCount"
+      },
+      "width": {
+        "value": "15%"
+      }
+    },
+    {
+      "title": {
+        "value": "所占空间（MB）"
+      },
+      "dataIndex": {
+        "value": "tableSpace"
+      },
+      "key": {
+        "value": "tableSpace"
+      },
+      "width": {
+        "value": "15%"
+      }
+    }
+  ]
+}

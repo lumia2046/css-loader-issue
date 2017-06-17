@@ -1,0 +1,14 @@
+.breadcrumb_div{
+	background-color: #057DBC;
+	line-height: 40px;
+	height:40px;
+	padding-left: 40px;
+}
+
+.breadcrumb_div_icon{
+	color: white;
+}
+
+.breadcrumb_div_span{
+	color: white !important;
+}

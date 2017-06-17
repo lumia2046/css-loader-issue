@@ -1,0 +1,23 @@
+{
+	"system":"人事管理系统",
+	"data":[
+		{
+			"tablespace":"LY_HR",
+			"user":"LY_HR",
+			"tableCount":"152",
+			"createDate":"2017-04-20 20:21:14"
+		},
+		{
+			"tablespace":"LY_ES",
+			"user":"LY_ES",
+			"tableCount":"189",
+			"createDate":"2017-04-20 19:45:23"
+		},
+		{
+			"tablespace":"LY_STU",
+			"user":"LY_STU",
+			"tableCount":"139",
+			"createDate":"2017-04-18 18:40:23"
+		}
+	]
+}

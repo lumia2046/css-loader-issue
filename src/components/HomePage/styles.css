@@ -1,0 +1,13 @@
+.title{
+    background-color: RGB(229,229,229);
+    color: RGB(3,169,245);
+    padding: 10px 20px;
+    font-size: 18px;
+}
+.title span{
+    padding: 10px;
+
+}
+.content{
+    background-color: white;
+}

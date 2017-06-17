@@ -1,0 +1,84 @@
+.data_block{
+	background:white;
+	width:360px;
+	height:220px;
+	float:left;
+	margin-right:20px;
+	margin-bottom:20px;
+}
+
+.data_block_chardiv{
+	width:200px;
+	float:left;
+}
+
+.data_block_chardiv_img{
+	width:200px;
+	height:30px;
+	padding-left:10px;
+	padding-top:5px;
+}
+
+.data_block_countdiv{
+	width:160px;
+	float:left;
+	padding-top:20px;
+}
+
+.data_block_countdiv_system{
+	font-size:16px;
+	font-weight:bold;
+}
+
+.data_block_countdiv_desc{
+	height:30px;
+	padding-top:5px;
+}
+
+.data_block_countdiv_hg{
+	width:10px;
+	height:10px;
+	background:#49D665;
+	display:inline-block;
+	margin-right:20px;
+}
+
+.data_block_countdiv_bhg{
+	width:10px;
+	height:10px;
+	background:#F17200;
+	display:inline-block;
+}
+
+.data_block_countdiv_itemname{
+	font-weight:bold;
+}
+
+.data_block_countdiv_item{
+	height:20px;
+}
+
+.data_block_countdiv_item_icon{
+	width:70%;
+	float:left;
+	margin-top:5px;
+}
+
+.data_block_countdiv_item_hg{
+	background:#49D665;
+	float:left;
+	height:10px;
+}
+
+.data_block_countdiv_item_bhg{
+	background:#F17200;
+	float:left;
+	height:10px;
+}
+
+.data_block_countdiv_item_hgl{
+	width:20%;
+	float:left;
+	margin-left:10px;
+	color:#2AA9C7;
+}

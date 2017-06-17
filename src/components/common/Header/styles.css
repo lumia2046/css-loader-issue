@@ -1,0 +1,32 @@
+.container{
+	height: 90px;
+	background: RGB(3,169,245);
+}
+
+.block{
+	display: inline-block;
+	height: 100%;
+	color: white;
+}
+
+.title{
+	font-size: 30px;
+	/*font-weight: bold;*/
+	line-height: 90px;
+	margin-left: 20px;
+}
+
+.option{
+	float: right;
+	border-top: 5px RGB(3,169,245) solid;
+	padding-top: 5px;
+	text-align: center;
+	width: 120px;
+	font-size: 15px;
+}
+
+/*.option:hover{
+	border-top: 5px RGB(255,201,111) solid;
+	background: RGB(5,125,188);
+}*/
+
